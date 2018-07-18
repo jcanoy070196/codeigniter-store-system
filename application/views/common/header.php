@@ -12,20 +12,20 @@
  		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
 
  		<!-- Bootstrap -->
- 		<link type="text/css" rel="stylesheet" href="/Codeignter-Store/css/bootstrap.min.css"/>
+ 		<link type="text/css" rel="stylesheet" href="/Codeigniter-Store/css/bootstrap.min.css"/>
 
  		<!-- Slick -->
- 		<link type="text/css" rel="stylesheet" href="/Codeignter-Store/css/slick.css"/>
- 		<link type="text/css" rel="stylesheet" href="/Codeignter-Store/css/slick-theme.css"/>
+ 		<link type="text/css" rel="stylesheet" href="/Codeigniter-Store/css/slick.css"/>
+ 		<link type="text/css" rel="stylesheet" href="/Codeigniter-Store/css/slick-theme.css"/>
 
  		<!-- nouislider -->
- 		<link type="text/css" rel="stylesheet" href="/Codeignter-Store/css/nouislider.min.css"/>
+ 		<link type="text/css" rel="stylesheet" href="/Codeigniter-Store/css/nouislider.min.css"/>
 
  		<!-- Font Awesome Icon -->
- 		<link rel="stylesheet" href="/Codeignter-Store/css/font-awesome.min.css">
+ 		<link rel="stylesheet" href="/Codeigniter-Store/css/font-awesome.min.css">
 
  		<!-- Custom stlylesheet -->
- 		<link type="text/css" rel="stylesheet" href="/Codeignter-Store/css/style.css"/>
+ 		<link type="text/css" rel="stylesheet" href="/Codeigniter-Store/css/style.css"/>
 
  		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
  		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
