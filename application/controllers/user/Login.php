@@ -7,8 +7,6 @@ class Login extends CI_Controller {
         $data['company_number'] = '+639123456789';
 		$data['company_email'] = 'company@email.com';
 		$data['company_address'] = 'Sample Street, Sample Avenue, Sample City, PH';
-        $data['account_name'] = 'Test2';
-        $data['account_balance'] = '2500';
         $data['title_page'] = 'Login to start shopping!';
         
         
