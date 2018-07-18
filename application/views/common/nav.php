@@ -18,7 +18,7 @@
 						<?php
 							}else{
 						?>
-						<li><a href="#"><i class="fa fa-user-o"></i>Login</a></li>
+						<li><a href="login"><i class="fa fa-user-o"></i>Login</a></li>
 						<?php
 							}
 						?>
