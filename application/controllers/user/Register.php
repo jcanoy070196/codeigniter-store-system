@@ -6,7 +6,7 @@ class Register extends CI_Controller {
     function index(){
         $data['account_name'] = 'Test2';
         $data['account_balance'] = '2500';
-        $data['title_page'] = 'Registration'
+        $data['title_page'] = 'Registration';
         
         $this->load->view('common/header');
         $this->load->view('common/nav',$data);
