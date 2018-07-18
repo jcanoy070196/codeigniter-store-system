@@ -19,7 +19,9 @@ class Welcome extends CI_Controller {
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
 	public function index(){
-		
+		$data['company_number'] = '+639123456789';
+		$data['company_email'] = 'company@email.com';
+		$data['company_address'] = 'Sample Street, Sample Avenue, Sample City, PH';
 		$data['title_page'] = 'Welcome';
 		$this->load->view('common/header');
         $this->load->view('common/nav',$data);
