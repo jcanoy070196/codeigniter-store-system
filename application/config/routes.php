@@ -57,4 +57,5 @@ $route['login/[:any]'] = 'user/login/$1';
 $route['register/[:any]'] = 'user/register/$1';
 $route['login'] = 'user/login';
 $route['register'] = 'user/register';
+$route['store'] = 'store/view';
 
