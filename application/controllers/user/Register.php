@@ -12,7 +12,7 @@ class Register extends CI_Controller {
         $this->load->view('common/header');
         $this->load->view('common/nav',$data);
         $this->load->view('user/register');
-        $this->load->view('common/footer');
+        $this->load->view('common/footer',$data);
     }
     
     

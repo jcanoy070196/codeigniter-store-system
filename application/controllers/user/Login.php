@@ -13,7 +13,7 @@ class Login extends CI_Controller {
         $this->load->view('common/header');
         $this->load->view('common/nav',$data);
         $this->load->view('user/login');
-        $this->load->view('common/footer');
+        $this->load->view('common/footer',$data);
     }
     
     
