@@ -130,12 +130,12 @@
 		<!-- /FOOTER -->
 
 		<!-- jQuery Plugins -->
-		<script src="/js/jquery.min.js"></script>
-		<script src="/js/bootstrap.min.js"></script>
-		<script src="/js/slick.min.js"></script>
-		<script src="/js/nouislider.min.js"></script>
-		<script src="/js/jquery.zoom.min.js"></script>
-		<script src="/js/main.js"></script>
+		<script src="/Codeigniter-Store/js/jquery.min.js"></script>
+		<script src="/Codeigniter-Store/js/bootstrap.min.js"></script>
+		<script src="/Codeigniter-Store/js/slick.min.js"></script>
+		<script src="/Codeigniter-Store/js/nouislider.min.js"></script>
+		<script src="/Codeigniter-Store/js/jquery.zoom.min.js"></script>
+		<script src="/Codeigniter-Store/js/main.js"></script>
 
 	</body>
 </html>
