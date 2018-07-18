@@ -18,7 +18,9 @@
                       </center>
                     </form>	
                     <br>
-                    <span>No account?<a href="register">Register Now!</a></span>
+                    <center>
+                    <span>No account? <a href="register">Register Now!</a></span>
+                    </center>
 				</div>
                 <div class="col-lg-4">
                     
