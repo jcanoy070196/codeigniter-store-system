@@ -10,8 +10,18 @@
 						<li><a href="#"><i class="fa fa-map-marker"></i> 1734 Stonecoal Road</a></li>
 					</ul>
 					<ul class="header-links pull-right">
+						<?php
+							if(isset($account_name)){
+						?>
 						<li><a href="#"><i class="fa fa-dollar"></i> <?= $account_balance ?></a></li>
 						<li><a href="#"><i class="fa fa-user-o"></i> <?= $account_name ?></a></li>
+						<?php
+							}else{
+						?>
+						<li><a href="#"><i class="fa fa-user-o"></i>Login</a></li>
+						<?php
+							}
+						?>
 					</ul>
 				</div>
 			</div>
@@ -145,7 +155,7 @@
 				<!-- row -->
 				<div class="row">
 					<div class="col-md-12">
-						<h3 class="breadcrumb-header">Login to Shop</h3>
+						<h3 class="breadcrumb-header"><?= $title_page ?></h3>
 					</div>
 				</div>
 				<!-- /row -->

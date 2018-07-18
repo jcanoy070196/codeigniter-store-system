@@ -19,9 +19,8 @@ class Welcome extends CI_Controller {
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
 	public function index(){
-		$data['account_name'] = 'Test2';
-        $data['account_balance'] = '2500';
-
+		
+		$data['title_page'] = 'Welcome'
 		$this->load->view('common/header');
         $this->load->view('common/nav',$data);
         $this->load->view('welcome');
