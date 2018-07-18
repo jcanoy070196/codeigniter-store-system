@@ -4,7 +4,7 @@
 				<!-- row -->
 				<div class="col-lg-4"></div>
 				<div class="col-lg-4">
-    				<form>
+    				      <form>
                       <div class="form-group">
                         <label for="username">Username</label>
                         <input type="username" class="form-control" id="username"  placeholder="Enter username">
@@ -15,6 +15,7 @@
                       </div>
                       <button type="submit" class="btn btn-danger">Login</button>
                     </form>	
+                    <span>No account? Register Now!<a href="register"></a></span>
 				</div>
                 <div class="col-lg-4">
                     
