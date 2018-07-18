@@ -13,9 +13,12 @@
                         <label for="password">Password</label>
                         <input type="password" class="form-control" id="password" placeholder="Password">
                       </div>
+                      <center>
                       <button type="submit" class="btn btn-danger">Login</button>
+                      </center>
                     </form>	
-                    <span>No account? Register Now!<a href="register"></a></span>
+                    <br>
+                    <span>No account?<a href="register">Register Now!</a></span>
 				</div>
                 <div class="col-lg-4">
                     
